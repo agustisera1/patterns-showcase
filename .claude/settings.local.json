@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx shadcn@latest add card badge separator)",
+      "Bash(npx shadcn@latest add input label select table)",
+      "Bash(npx tsc *)",
+      "Bash(npm install *)",
+      "Bash(node -e \"console.log\\(require\\('./node_modules/next-themes/package.json'\\).version\\)\")"
+    ]
+  }
+}
