@@ -1,11 +1,13 @@
-Descripción: Implementación de un sistema modular (como un motor de procesamiento de pedidos o notificaciones) enfocado en la flexibilidad del código y la aplicación de principios SOLID.
+# Descripción
 
-Patrones Creacionales: Factory Method y Builder para la construcción de objetos complejos.
+Implementación de un sistema modular (como un motor de procesamiento de pedidos o notificaciones) enfocado en la flexibilidad del código y la aplicación de principios SOLID.
 
-Patrones Estructurales: Decorator (para añadir capas de funcionalidad como logging o validación) y Adapter (para integrar proveedores externos).
+**Patrones Creacionales:** Factory Method y Builder para la construcción de objetos complejos.
 
-Patrones Comportamentales: Strategy (intercambio de algoritmos), Observer (desacoplamiento por eventos) y Chain of Responsibility (pipelines de procesamiento).
+**Patrones Estructurales:** Decorator (para añadir capas de funcionalidad como logging o validación) y Adapter (para integrar proveedores externos).
 
-Principios SOLID: Especialmente el principio de Abierto/Cerrado (OCP) y la Inversión de Dependencias (DIP).
+**Patrones Comportamentales:** Strategy (intercambio de algoritmos), Observer (desacoplamiento por eventos) y Chain of Responsibility (pipelines de procesamiento).
 
-Criterio de Diseño: Identificación de puntos de extensión vs. sobre-ingeniería (Overengineering).
+**Principios SOLID:** Especialmente el principio de Abierto/Cerrado (OCP) y la Inversión de Dependencias (DIP).
+
+**Criterio de Diseño:** Identificación de puntos de extensión vs. sobre-ingeniería (Overengineering).
